@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opg5ConcurentEchoServer", "Opg5ConcurentEchoServer\Opg5ConcurentEchoServer.csproj", "{BA53EFBC-2104-4E08-B546-7036E01DE725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA53EFBC-2104-4E08-B546-7036E01DE725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA53EFBC-2104-4E08-B546-7036E01DE725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA53EFBC-2104-4E08-B546-7036E01DE725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA53EFBC-2104-4E08-B546-7036E01DE725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBD2347-BB51-4614-836B-4B780186580C}
+	EndGlobalSection
+EndGlobal
